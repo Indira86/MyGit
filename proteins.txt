@@ -1,0 +1,3 @@
+protein 1    chicken LKJHZ P9875
+protein 2    horse   OIUJ  M8526
+protein 3    cat     OIUJHB 8963
