@@ -1,3 +1,4 @@
+first line
 protein 1    chicken LKJHZ P9875    50
 protein 2    horse   OIUJ  M8526    40 
 protein 3    cat     OIUJHB 8963    30 
