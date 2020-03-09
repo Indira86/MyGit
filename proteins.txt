@@ -1,3 +1,5 @@
 protein 1    chicken LKJHZ P9875
 protein 2    horse   OIUJ  M8526
 protein 3    cat     OIUJHB 8963
+protein N4   dog     POIZU  36589
+protein N5   bird    KJHZZ  36974
