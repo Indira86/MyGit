@@ -4,3 +4,4 @@ protein 2    horse   OIUJ  M8526    40
 protein 3    cat     OIUJHB 8963    30 
 protein N4   dog     POIZU  36589   20
 protein N5   bird    KJHZZ  36974   10
+end line
